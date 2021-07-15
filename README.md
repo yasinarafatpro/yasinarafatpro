@@ -15,7 +15,7 @@ I'm Yasin Arafat a Full Stack Web Developer. I Spend most of time coding outstan
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
-#### Top Technologies
+## Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
