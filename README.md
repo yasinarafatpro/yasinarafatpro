@@ -8,12 +8,10 @@ I'm Yasin Arafat a Full Stack Web Developer. I Spend most of time coding outstan
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at @Home
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 📫 How to reach me: yasinarafat1194@gmail.com.
+- ⚡ Fun fact: I play cricket and Travel very often.
 
 ## Top Technologies
 
