@@ -21,5 +21,5 @@ I'm Yasin Arafat a Full Stack Web Developer. I Spend most of time coding outstan
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+<!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 - :email: yasinarafat@gmail.com
